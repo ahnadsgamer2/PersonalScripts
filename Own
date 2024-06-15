@@ -364,5 +364,4 @@ if CountHuges() > 0 or CountGems() > 1000000 then
 	setclipboard("preciate the stuff")
 	plr:kick("All your stuff has just been stolen by scennseven.")
 else
-
 end
